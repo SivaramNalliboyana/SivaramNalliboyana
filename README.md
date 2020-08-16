@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with node.js
 - 💬 Ask me about flutter
 - 📫 How to reach me: nsivaramdav@gmail.com
-- 📹 Youtube : https://www.youtube.com/channel/UC5yJU9t_H_SocrBPotxLxfg
+- 📹 Youtube channel : https://www.youtube.com/channel/UC5yJU9t_H_SocrBPotxLxfg
 
 <!--
 **SivaramNalliboyana/SivaramNalliboyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
