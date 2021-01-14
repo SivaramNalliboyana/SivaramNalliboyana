@@ -8,7 +8,7 @@
 - 📫 How to reach me: nsivaramdav@gmail.com
 - 📹 Youtube channel : https://www.youtube.com/channel/UC5yJU9t_H_SocrBPotxLxfg
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drakosi99&" alt="drakosi99" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SivaramNalliboyana&" alt="drakosi99" /></p>
 <!--
 **SivaramNalliboyana/SivaramNalliboyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
