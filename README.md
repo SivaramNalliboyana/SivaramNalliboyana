@@ -9,6 +9,7 @@
 - 📹 Youtube channel : https://www.youtube.com/channel/UC5yJU9t_H_SocrBPotxLxfg
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SivaramNalliboyana&" alt="drakosi99" /></p>
+ <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SivaramNalliboyana&show_icons=true&hide_border=true" />
 <!--
 **SivaramNalliboyana/SivaramNalliboyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
