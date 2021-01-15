@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with node.js
 - 💬 Ask me about flutter
 - 📫 How to reach me: nsivaramdav@gmail.com
-- 📹 Youtube channel : https://www.youtube.com/channel/UC5yJU9t_H_SocrBPotxLxfg
  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SivaramNalliboyana&" alt="SivaramNalliboyana" />
 
 
