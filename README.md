@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on different app clones with flutter
+- 🔭 I’m currently working on my startup app
 - 🌱 I’m currently learning complex backend with flutter
 - 👯 I’m looking to collaborate on youtube
 - 🤔 I’m looking for help with node.js
