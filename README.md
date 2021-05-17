@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on my startup app
 - 🌱 I’m currently learning complex backend with flutter
-- 👯 I’m looking to collaborate on youtube
-- 🤔 I’m looking for help with node.js
+- 👯 I’m looking to collaborate on instagram
 - 💬 Ask me about flutter
 - 📫 How to reach me: nsivaramdav@gmail.com
  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SivaramNalliboyana&" alt="SivaramNalliboyana" />
