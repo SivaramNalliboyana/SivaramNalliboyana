@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my startup app
-- 🌱 I’m currently learning complex backend with flutter
-- 👯 I’m looking to collaborate on instagram
+- 🔭 I’m currently studying in TUM
+- 🌱 I’m currently learning React JS
 - 💬 Ask me about flutter
 - 📫 How to reach me: nsivaramdav@gmail.com
  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SivaramNalliboyana&" alt="SivaramNalliboyana" />
