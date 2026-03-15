@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying in TUM
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning about AI Agents
 - 💬 Ask me about flutter
 - 📫 How to reach me: nsivaramdav@gmail.com
  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SivaramNalliboyana&" alt="SivaramNalliboyana" />
