@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently studying in TUM
 - 🌱 I’m currently learning about AI Agents
+- 🚀 Currently working on my startup
 - 💬 Ask me about flutter
 - 📫 How to reach me: nsivaramdav@gmail.com
  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SivaramNalliboyana&" alt="SivaramNalliboyana" />
